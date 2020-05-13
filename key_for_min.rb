@@ -12,7 +12,7 @@ def key_for_min_value(name_hash)
       lowest_key = key
     end
   end
-  lowest_value
+  lowest_key
   #if the lowest value is 0 || or if value is less than lowest_value
     #then the lowest_value becomes iterated value and lowest_key becomes iterated key
     #end twice
